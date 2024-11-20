@@ -16,7 +16,7 @@ var config = {
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2015-06-19_Glacier_National_Park_%28U.S.%29_8633.jpg/800px-2015-06-19_Glacier_National_Park_%28U.S.%29_8633.jpg',
             description: 'Glacier National Park is dominated by mountains which were carved into their present shapes by the huge glaciers of the last ice age...',
             location: {
-                center: [-113.91666, 48.66451],
+                center: [-73.68656, 10.83888],
                 zoom: 8,
                 pitch: 0.00,
                 bearing: 0.00
