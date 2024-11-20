@@ -45,7 +45,7 @@ var config = {
             image: '',
             description: 'Harrison Glacier is located in the US state of Montana in Glacier National Park. Situated on a southeast facing ridge immediately south of Mount Jackson, Harrison Glacier is the largest glacier in Glacier National Park...',
             location: {
-                center: [-113.72917, 48.58938],
+                center: [-73.68656, 10.83888],
                 zoom: 12.92,
                 pitch: 39.50,
                 bearing: 36.00
